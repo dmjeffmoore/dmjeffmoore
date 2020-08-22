@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, World! I'm Jeffrey Moore. 👋
+
+I'm a passionate, pragmatic and proficient software engineer with 3 years of demonstrated experience in delivering valuable, enterprise-level software solutions. Strong engineering professional with a Bachelor of Science in Computer Science from Arizona State University.
 
 <!--
 **dmjeffmoore/dmjeffmoore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
