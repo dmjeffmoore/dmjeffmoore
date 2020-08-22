@@ -2,6 +2,10 @@
 
 I'm a passionate, pragmatic and proficient software engineer with 3 years of demonstrated experience in delivering valuable, enterprise-level software solutions. Strong engineering professional with a Bachelor of Science in Computer Science from Arizona State University.
 
+[LinkedIn](https://www.linkedin.com/in/dmjeffmoore/)  
+[Resume](https://github.com/dmjeffmoore/dmjeffmoore/blob/master/resume.pdf)
+
+
 <!--
 **dmjeffmoore/dmjeffmoore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
