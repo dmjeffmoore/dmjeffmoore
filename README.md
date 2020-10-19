@@ -1,6 +1,6 @@
 ### Hello, World! I'm Jeffrey Moore. 👋
 
-I'm a passionate, pragmatic and proficient software engineer with 3 years of demonstrated experience in delivering valuable, enterprise-level software solutions. Strong engineering professional with a Bachelor of Science in Computer Science from Arizona State University.
+I'm a passionate, pragmatic, self-starter full-stack software engineer with 3 years of demonstrated experience in delivering valuable, enterprise-level software solutions. Proficient with Java, Spring, microservice architecture, computer networking, software QA and testing, and RESTful web services. Competent with React, Node.js, Kotlin, Bash, JavaScript, Go, CI/CD, Docker, Kubernetes, Concourse, Azure, and Pivotal Cloud Foundry.
 
 [LinkedIn](https://www.linkedin.com/in/dmjeffmoore/)  
 [Resume](https://github.com/dmjeffmoore/dmjeffmoore/blob/master/resume.pdf)
