@@ -1,6 +1,6 @@
 ### Hello, World! I'm Jeffrey Moore. 👋
 
-I'm a passionate, self-starter full-stack software engineer. Proficient with Java, Spring, microservice architecture, computer networking, software QA and testing, and RESTful web services. Competent with React, Node.js, Kotlin, Bash, JavaScript, Go, CI/CD, Docker, Kubernetes, Concourse, Azure, and Pivotal Cloud Foundry.
+I'm a passionate, self-starter full-stack software engineer. Proficient with Java, Spring, JavaScript, React, Node.js, Kotlin, microservice architecture, computer networking, software QA and testing, and RESTful web services. Competent with Bash, Go, Python, CI/CD, Docker, Kubernetes, AWS, Concourse, Azure, and Pivotal Cloud Foundry.
 
 [LinkedIn](https://www.linkedin.com/in/dmjeffmoore/)  
 
