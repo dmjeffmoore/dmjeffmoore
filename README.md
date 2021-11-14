@@ -1,9 +1,8 @@
 ### Hello, World! I'm Jeffrey Moore. 👋
 
-I'm a passionate, self-starter full-stack software engineer. Proficient with Java, Spring, JavaScript, React, Node.js, Kotlin, microservice architecture, computer networking, software QA and testing, and RESTful web services. Competent with Bash, Go, Python, CI/CD, Docker, Kubernetes, AWS, Concourse, Azure, and Pivotal Cloud Foundry.
+I'm a passionate, self-starter senior software engineer with a bachelor of science in computer science and 5+ years experience. 
 
-[LinkedIn](https://www.linkedin.com/in/dmjeffmoore/)  
-
+[LinkedIn](https://www.linkedin.com/in/dmjeffmoore/)
 
 <!--
 **dmjeffmoore/dmjeffmoore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
