@@ -1,6 +1,6 @@
 ### Hello, World! I'm Jeffrey Moore. 👋
 
-I'm a passionate, self-starter senior software engineer with a bachelor of science in computer science and 5+ years experience. 
+I'm a passionate, self-starter senior software engineer with a bachelor of science in computer science and 4+ years experience. 
 
 [LinkedIn](https://www.linkedin.com/in/dmjeffmoore/)
 
